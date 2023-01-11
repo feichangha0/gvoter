@@ -1,0 +1,2 @@
+# gvoter
+gunz auto vote
